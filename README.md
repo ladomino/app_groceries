@@ -13,5 +13,5 @@ Grocery List application to show a list of groceries and to add and remove a gro
 ### SnackBar Undo Remove
 <img src="assets/images/snackbarundo.png" width="300">
 
-### Add Expense
-<img src="assets/images/grocery.png" width="300">
+### Add Grocery
+<img src="assets/images/addgrocery.png" width="300">
